@@ -106,19 +106,17 @@ A browser-based application that reverses both video and audio locally using FFm
 
 ---
 
-## 📊 Customer Churn Prediction
+🚗 Smart Parking System
 
-A Machine Learning project that predicts customer churn using telecom customer data and provides real-time predictions through an interactive web interface.
+A smart parking management application designed to simplify vehicle parking by efficiently managing parking slots, vehicle records, and parking availability through an intuitive interface.
 
-**Tech Used:** Python • Scikit-learn • Streamlit
+Tech Used: Python • SQL
 
----
+🎓 Student Database Management System
 
-## 🔐 Code Encryption & Decryption Generator
+A database-driven application developed to efficiently manage student records, including personal information, academic details, and record management operations such as adding, updating, searching, and deleting student data.
 
-A Python-based project demonstrating secure text encoding, encryption, and decryption using modern cryptographic techniques.
-
-**Tech Used:** Python • Cryptography
+Tech Used: Python • SQL
 
 ---
 
@@ -133,24 +131,6 @@ A Python-based project demonstrating secure text encoding, encryption, and decry
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Build impactful projects
-
-✅ Strengthen programming fundamentals
-
-✅ Improve problem-solving skills
-
-✅ Learn Full Stack Development
-
-✅ Explore Artificial Intelligence
-
-✅ Contribute to Open Source
-
-✅ Secure a Software Development Internship
-
----
-
 # 🤝 Soft Skills
 
 - Problem Solving
@@ -159,7 +139,8 @@ A Python-based project demonstrating secure text encoding, encryption, and decry
 - Quick Learner
 - Adaptability
 - Continuous Learning
-
+- Good Communication
+  
 # 📊 GitHub Statistics
 
 <div align="center">
