@@ -106,17 +106,19 @@ A browser-based application that reverses both video and audio locally using FFm
 
 ---
 
-🚗 Smart Parking System
+## 🚗 Smart Parking System
 
 A smart parking management application designed to simplify vehicle parking by efficiently managing parking slots, vehicle records, and parking availability through an intuitive interface.
 
-Tech Used: Python • SQL
+**Tech Used:** Python • SQL
 
-🎓 Student Database Management System
+---
+
+## 🎓 Student Database Management System
 
 A database-driven application developed to efficiently manage student records, including personal information, academic details, and record management operations such as adding, updating, searching, and deleting student data.
 
-Tech Used: Python • SQL
+**Tech Used:** Python • SQL
 
 ---
 
